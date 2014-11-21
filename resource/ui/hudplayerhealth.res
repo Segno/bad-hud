@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudClassHealth"
+		"font"			"Rodondo20"
 		"fgcolor"		"TanDark"
 	}								
 	"PlayerStatusBleedImage"
